@@ -14,11 +14,11 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "cannon": "github:schteppe/cannon.js",
     "spark-ar-physics": "^1.0.1",
-    "webpack": "^4.31.0"
+    "webpack": "^5.94.0"
   }
 }
